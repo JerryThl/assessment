@@ -128,6 +128,21 @@
                   endingLineNumber = "91"
                   offsetFromSymbolStart = "1772">
                </Location>
+               <Location
+                  uuid = "8D14985E-ACD7-4E7A-AFCE-56605D64291A - 4894971dc4a2e7e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in Assessment.ChangePasswordVM.validate() -&gt; Swift.Bool"
+                  moduleName = "Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerry/Desktop/assessment_test/assessment/Assessment/Features/ChangePassword/VM/ChangePasswordVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1772">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>

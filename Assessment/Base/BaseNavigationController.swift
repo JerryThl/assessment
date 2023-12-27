@@ -34,7 +34,7 @@ class BaseNavigationController: UINavigationController {
         isNavigationBarHidden = false
         
         let navBar = UINavigationBar.appearance()
-        navBar.backgroundColor = .customWhite
+        navBar.backgroundColor = UIColor.customWhite
 //        navigationItem.leftBarButtonItem?.tintColor = UIColor.white
 //        navigationItem.rightBarButtonItem?.tintColor = UIColor.white
 //        navBar.tintColor = UIColor.white
